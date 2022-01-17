@@ -1,0 +1,4 @@
+@font-face {
+    font-family: "medium";
+    src: local('Medium-Family') url(./fonts/Air-Medium.ttf) format('ttf');
+};

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.de7c3341.chunk.css",
+    "main.js": "./static/js/main.559d68ff.chunk.js",
+    "main.js.map": "./static/js/main.559d68ff.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ef2e9c28.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ef2e9c28.js.map",
+    "static/js/2.a3eae1da.chunk.js": "./static/js/2.a3eae1da.chunk.js",
+    "static/js/2.a3eae1da.chunk.js.map": "./static/js/2.a3eae1da.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.de7c3341.chunk.css.map": "./static/css/main.de7c3341.chunk.css.map",
+    "static/js/2.a3eae1da.chunk.js.LICENSE.txt": "./static/js/2.a3eae1da.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/Air-Medium.fd2aa935.ttf",
+    "static/media/bb logo.04f65788.png": "./static/media/bb logo.04f65788.png",
+    "static/media/gc logo.3dfd57b7.png": "./static/media/gc logo.3dfd57b7.png",
+    "static/media/grade 9 tutors logo.465b220b.png": "./static/media/grade 9 tutors logo.465b220b.png",
+    "static/media/itv logo.99357289.png": "./static/media/itv logo.99357289.png",
+    "static/media/photo.7633e17a.png": "./static/media/photo.7633e17a.png",
+    "static/media/twitter logo.56585938.jpeg": "./static/media/twitter logo.56585938.jpeg",
+    "static/media/ucl.11de945e.png": "./static/media/ucl.11de945e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef2e9c28.js",
+    "static/js/2.a3eae1da.chunk.js",
+    "static/css/main.de7c3341.chunk.css",
+    "static/js/main.559d68ff.chunk.js"
+  ]
+}
